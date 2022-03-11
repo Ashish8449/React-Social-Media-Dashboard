@@ -44,9 +44,9 @@ d="M18.896 0H1.104C.494 0 0 .494 0 1.104v17.793C0 19.506.494 20 1.104 20h9.58v-7
       ,
   svg:<> <defs>
   <linearGradient id="a" x1="100%" x2="0%" y1="0%" y2="100%">
-    <stop offset="0%" stop-color="#DF4896" />
-    <stop offset="50.913%" stop-color="#EE877E" />
-    <stop offset="100%" stop-color="#FDC366" />
+    <stop offset="0%" stopColor="#DF4896" />
+    <stop offset="50.913%" stopColor="#EE877E" />
+    <stop offset="100%" stopColor="#FDC366" />
   </linearGradient>
 </defs><path
                   fill="url(#a)"
@@ -61,9 +61,9 @@ d="M18.896 0H1.104C.494 0 0 .494 0 1.104v17.793C0 19.506.494 20 1.104 20h9.58v-7
        ,
   svg:<> <defs>
   <linearGradient id="a" x1="100%" x2="0%" y1="0%" y2="100%">
-    <stop offset="0%" stop-color="#DF4896" />
-    <stop offset="50.913%" stop-color="#EE877E" />
-    <stop offset="100%" stop-color="#FDC366" />
+    <stop offset="0%" stopColor="#DF4896" />
+    <stop offset="50.913%" stopColor="#EE877E" />
+    <stop offset="100%" stopColor="#FDC366" />
   </linearGradient>
 </defs><path
                   fill="url(#a)"
